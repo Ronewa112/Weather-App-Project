@@ -15,7 +15,7 @@ To experience the Weather Dashboard firsthand, you can access the live project [
 The Weather Dashboard project is a testament to the power of web technologies in delivering practical and user-centric solutions. By leveraging HTML, CSS, and JavaScript, the app offers a visually appealing and intuitive interface while seamlessly integrating real-time weather data to keep users informed and prepared. 🌟
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]([https://nephiphidi.resume.netlify.app](https://nephiphidiresume.netlify.app/)) file for details. 📝
+This project is licensed under the MIT License - see the [LICENSE]([https://nephiphidi.resume.netlify.app](https://nephiphidiresume.netlify.app/) file for details. 📝
 
 ## Get Involved!
 Whether you are a developer looking to explore the implementation of weather APIs or a user interested in a user-friendly weather application, the Weather Dashboard has something for everyone. Feel free to explore the project, contribute, or provide feedback to help make it even better. 🌟✨
